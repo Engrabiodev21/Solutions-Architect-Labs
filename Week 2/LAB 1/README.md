@@ -50,6 +50,7 @@ I created the vpc **vpc-069c687691f4e225b** | project-vpc with public subnet **s
  
  
  **5. Launch a Linux instance into this VPC and attach the subnet**
+I clicked on linux instance 
  
  
 
