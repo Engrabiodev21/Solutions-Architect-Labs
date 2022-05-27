@@ -58,6 +58,12 @@ I clicked on ec2 and clicked on dashboard, launch the instances i-079bd411baa19f
  **Test the network connectivity**
  i tested the internet gateway **igw-0112d38c65e3cce11** on the browser for connectivity and it was successfully connected
  
+ 
+ **Perform clean up actions
+ 
+ 
+ I deleted all operations
+ 
 
 
 
