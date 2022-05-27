@@ -13,3 +13,9 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example.ht
 https://docs.aws.amazon.com/vpc/latest/userguide/vpc-subnets-commands-example-ipv6.html
 
 https://docs.aws.amazon.com/vpc/index.html
+
+
+
+
+
+I am still having issue to load my aws cloudshell environment. i have change to all the region. yet it is not loading...i am really piss off.
