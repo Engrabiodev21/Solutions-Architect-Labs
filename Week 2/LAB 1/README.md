@@ -50,8 +50,13 @@ I created the vpc **vpc-069c687691f4e225b** | project-vpc with public subnet **s
  
  
  **5. Launch a Linux instance into this VPC and attach the subnet**
-I clicked on linux instance 
- 
+I clicked on ec2 and clicked on dashboard, launch the instances i-079bd411baa19fa17 which was attached to the vpc **vpc-069c687691f4e225b**  and the public subnet **subnet-099324cf9b2b61957** was attached to it.
+
+
+
+
+ **Test the network connectivity**
+ i tested the internet gateway **igw-0112d38c65e3cce11** on the browser for connectivity and it was successfully connected
  
 
 
