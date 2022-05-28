@@ -34,3 +34,18 @@ financeuser          billinguser          Billing view access
 https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_users-self-manage-mfa-and-creds.html
 
 
+
+
+
+
+**1. Login to your root account**
+
+i login into my root account
+
+
+**2. Create an IAM group with S3 read only acess (S3 support).**
+
+
+
+
+
