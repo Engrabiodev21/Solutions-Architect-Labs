@@ -44,6 +44,46 @@ i login into my root account
 
 
 **2. Create an IAM group with S3 read only acess (S3 support).**
+I created IAM group with S 3 read only access  Abiodex001
+
+
+**3. Create an IAM group with EC2 read only acess (EC2 support)
+
+I created IAM group with S3 read only access
+
+**4. Create an IAM group with EC2 full access (EC2 admin)
+
+
+i created IAM group with EC2 full access access Abiodex003
+
+
+**5. Create 3 IAM users and add to the each group above as descibe below:
+
+
+
+
+**user      group          permissions
+  
+  abiodex001   EC2 support     Read-Only access to Amazon EC2
+  abiodex002   S3 support      Read-Only access to Amazon S3
+  abiodex003   EC2 admin       Full access to Amazon EC2 instances
+  
+  
+  
+  **6. Test your design
+  
+  it works perfectly
+  
+ **7. perform all operation
+ 
+ They are all deleted.
+
+
+
+
+
+
+
 
 
 
